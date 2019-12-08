@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mySuiteApptive" duration-ms="77230" started-at="2019-12-07T20:23:55 CST" finished-at="2019-12-07T20:25:12 CST">
+    <groups>
+    </groups>
+    <test name="mySuiteApp_tive" duration-ms="77230" started-at="2019-12-07T20:23:55 CST" finished-at="2019-12-07T20:25:12 CST">
+      <class name="com.automation.fblite.IntroductionTest">
+        <test-method status="PASS" signature="chargeDriver()[pri:0, instance:com.automation.fblite.IntroductionTest@5ce81285]" name="chargeDriver" is-config="true" duration-ms="10838" started-at="2019-12-07T20:23:44 CST" finished-at="2019-12-07T20:23:55 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chargeDriver -->
+        <test-method status="PASS" signature="validationTest()[pri:0, instance:com.automation.fblite.IntroductionTest@5ce81285]" name="validationTest" duration-ms="77157" started-at="2019-12-07T20:23:55 CST" finished-at="2019-12-07T20:25:12 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationTest -->
+        <test-method status="PASS" signature="finishDriver()[pri:0, instance:com.automation.fblite.IntroductionTest@5ce81285]" name="finishDriver" is-config="true" duration-ms="0" started-at="2019-12-07T20:25:12 CST" finished-at="2019-12-07T20:25:12 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishDriver -->
+      </class> <!-- com.automation.fblite.IntroductionTest -->
+    </test> <!-- mySuiteApp_tive -->
+  </suite> <!-- mySuiteApptive -->
+</testng-results>

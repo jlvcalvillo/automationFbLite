@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [mySuiteApptive]">
+  <test thread-count="5" verbose="0" name="mySuiteApp_tive(failed)">
+    <classes>
+      <class name="com.automation.fblite.IntroductionTest">
+        <methods>
+          <include name="chargeDriver"/>
+          <include name="validationTest"/>
+          <include name="finishDriver"/>
+        </methods>
+      </class> <!-- com.automation.fblite.IntroductionTest -->
+    </classes>
+  </test> <!-- mySuiteApp_tive(failed) -->
+</suite> <!-- Failed suite [mySuiteApptive] -->

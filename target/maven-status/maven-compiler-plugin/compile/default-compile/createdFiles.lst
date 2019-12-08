@@ -1,0 +1,8 @@
+com\automation\fblite\App.class
+com\automation\pages\MobileNumberPage.class
+com\automation\coreappium\MyDriverAppium.class
+com\automation\pages\SecondPage.class
+com\automation\pages\BirthdayPage.class
+com\automation\pages\BasePage.class
+com\automation\pages\IntroductionPage.class
+com\automation\pages\YourNamePage.class
